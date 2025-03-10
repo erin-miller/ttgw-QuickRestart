@@ -1,7 +1,5 @@
-# BetterMonocle
+# QuickRestart
 
-A mod that improves the Monocle item in [Toontown: The Grindworks](https://itsevan.itch.io/toontown-the-grindworks).
+A mod that allows users to start a new run on their selected character in [Toontown: The Grindworks](https://itsevan.itch.io/toontown-the-grindworks).
 
-Allows the user to always view item descriptions.
-
-The monocle will now display anomalies when choosing the next floor.
+Hold "R" for 2 seconds to restart once a character is selected.
