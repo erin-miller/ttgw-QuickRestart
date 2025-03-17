@@ -34,7 +34,7 @@ func add_reload_action() -> void:
 	if not InputMap.has_action(action_name):
 		InputMap.add_action(action_name)
 	
-	InputMap.action_erase_events(action_name)  # remove old
+	InputMap.action_erase_events(action_name) # remove old
 	InputMap.action_add_event(action_name, key_event)
 
 func create_countdown() -> void:
